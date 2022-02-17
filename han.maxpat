@@ -3,14 +3,23 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
+<<<<<<< Updated upstream
 			"minor" : 1,
 			"revision" : 11,
+=======
+			"minor" : 0,
+			"revision" : 8,
+>>>>>>> Stashed changes
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
+<<<<<<< Updated upstream
 		"rect" : [ 42.0, 85.0, 1852.0, 929.0 ],
+=======
+		"rect" : [ 40.0, 84.0, 1212.0, 562.0 ],
+>>>>>>> Stashed changes
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -37,7 +46,10 @@
 		"tags" : "",
 		"style" : "",
 		"subpatcher_template" : "",
+<<<<<<< Updated upstream
 		"assistshowspatchername" : 0,
+=======
+>>>>>>> Stashed changes
 		"boxes" : [ 			{
 				"box" : 				{
 					"id" : "obj-109",
@@ -128,8 +140,13 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
+<<<<<<< Updated upstream
 							"minor" : 1,
 							"revision" : 11,
+=======
+							"minor" : 0,
+							"revision" : 8,
+>>>>>>> Stashed changes
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -162,7 +179,10 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+<<<<<<< Updated upstream
 						"assistshowspatchername" : 0,
+=======
+>>>>>>> Stashed changes
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-13",
@@ -531,8 +551,13 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
+<<<<<<< Updated upstream
 							"minor" : 1,
 							"revision" : 11,
+=======
+							"minor" : 0,
+							"revision" : 8,
+>>>>>>> Stashed changes
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -565,7 +590,10 @@
 						"tags" : "",
 						"style" : "",
 						"subpatcher_template" : "",
+<<<<<<< Updated upstream
 						"assistshowspatchername" : 0,
+=======
+>>>>>>> Stashed changes
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-28",
@@ -1795,7 +1823,11 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 0,
+<<<<<<< Updated upstream
 					"patching_rect" : [ 243.0, 356.0, 41.0, 22.0 ],
+=======
+					"patching_rect" : [ 256.0, 356.0, 41.0, 22.0 ],
+>>>>>>> Stashed changes
 					"text" : "s start"
 				}
 
@@ -1808,7 +1840,11 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
+<<<<<<< Updated upstream
 					"patching_rect" : [ 154.0, 197.0, 105.0, 105.0 ]
+=======
+					"patching_rect" : [ 167.0, 197.0, 105.0, 105.0 ]
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2073,7 +2109,11 @@
 					"maxclass" : "newobj",
 					"numinlets" : 1,
 					"numoutlets" : 3,
+<<<<<<< Updated upstream
 					"outlettype" : [ "jit_matrix", "bang", "" ],
+=======
+					"outlettype" : [ "", "bang", "" ],
+>>>>>>> Stashed changes
 					"patching_rect" : [ 1491.0, 469.0, 687.0, 22.0 ],
 					"text" : "jit.world test @fsaa 1 @windowposition 1500 100 @floating 1 @fsmenubar 0 @fps 120 @erase_color 0. 0. 0. 1. @size 320 240"
 				}
@@ -2082,13 +2122,21 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-28",
+<<<<<<< Updated upstream
 					"linecount" : 2,
+=======
+>>>>>>> Stashed changes
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 1116.0, 443.0, 132.0, 36.0 ],
 					"text" : "publish /Leopard/Han/Y 495."
+=======
+					"patching_rect" : [ 1116.0, 443.0, 177.0, 22.0 ],
+					"text" : "publish /Leopard/abdella/Y 164."
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2112,8 +2160,13 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 1218.0, 392.0, 181.0, 22.0 ],
 					"text" : "prepend publish /Leopard/Han/Y"
+=======
+					"patching_rect" : [ 1218.0, 392.0, 198.0, 22.0 ],
+					"text" : "prepend publish /Leopard/abdella/Y"
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2139,8 +2192,13 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 428.0, 299.0, 418.0, 22.0 ],
 					"text" : "configure mqtt://datt3700:datt3700experiments@datt3700.cloud.shiftr.io HAN"
+=======
+					"patching_rect" : [ 428.0, 299.0, 451.0, 22.0 ],
+					"text" : "configure mqtt://datt3700:datt3700experiments@datt3700.cloud.shiftr.io millan-mqtt"
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2187,26 +2245,42 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-26",
+<<<<<<< Updated upstream
 					"linecount" : 2,
+=======
+>>>>>>> Stashed changes
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 710.0, 543.0, 120.0, 36.0 ],
 					"text" : "/Leopard/Han/X \"485\" 0 0"
+=======
+					"patching_rect" : [ 710.0, 543.0, 161.0, 22.0 ],
+					"text" : "/Leopard/abdella/Y \"164\" 0 0"
+>>>>>>> Stashed changes
 				}
 
 			}
 , 			{
 				"box" : 				{
 					"id" : "obj-52",
+<<<<<<< Updated upstream
 					"linecount" : 2,
+=======
+>>>>>>> Stashed changes
 					"maxclass" : "message",
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 940.0, 439.0, 132.0, 36.0 ],
 					"text" : "publish /Leopard/Han/X 485."
+=======
+					"patching_rect" : [ 940.0, 439.0, 177.0, 22.0 ],
+					"text" : "publish /Leopard/abdella/X 542."
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2230,8 +2304,13 @@
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 968.0, 387.0, 181.0, 22.0 ],
 					"text" : "prepend publish /Leopard/Han/X"
+=======
+					"patching_rect" : [ 968.0, 387.0, 198.0, 22.0 ],
+					"text" : "prepend publish /Leopard/abdella/X"
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2303,7 +2382,11 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 312.0, 742.0, 50.0, 22.0 ],
+<<<<<<< Updated upstream
 					"text" : "496"
+=======
+					"text" : "165"
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2315,7 +2398,11 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 115.0, 743.0, 50.0, 22.0 ],
+<<<<<<< Updated upstream
 					"text" : "486"
+=======
+					"text" : "541"
+>>>>>>> Stashed changes
 				}
 
 			}
@@ -2338,8 +2425,13 @@
 					"numinlets" : 3,
 					"numoutlets" : 3,
 					"outlettype" : [ "", "", "" ],
+<<<<<<< Updated upstream
 					"patching_rect" : [ 209.0, 697.0, 519.0, 22.0 ],
 					"text" : "route /mrmr/accelerometerX/0/hanjimingde-iPhone /mrmr/accelerometerY/0/hanjimingde-iPhone"
+=======
+					"patching_rect" : [ 209.0, 697.0, 396.0, 22.0 ],
+					"text" : "route /mrmr/accelerometerX/0/MPhone /mrmr/accelerometerY/0/MPhone"
+>>>>>>> Stashed changes
 				}
 
 			}
